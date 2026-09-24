@@ -1,4 +1,4 @@
-**--Privacy Pal--**  
+**---Privacy Pal---**  
 
 **Summary**    
 Privacy Pal is a web application that helps users easily understand website privacy policy changes without reading pages of legal text.    
